@@ -1,0 +1,5 @@
+numpy
+matplotlib
+customtkinter
+scipy
+mpi4py
